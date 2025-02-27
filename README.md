@@ -17,7 +17,7 @@ I’m Jingchang (you can also call me Eleanor).
   - I’m a cat person! Currently planning to start a cat diary blog (stay tuned for the link).
 
 - 🚀 **Projects**: 
-  - I am working on a web-based productivity tool called [DeepWork2025](https://github.com/DeepWork2025).
+  - I am working on a web-based productivity tool called [DeepWork](https://github.com/DeepWork2025).
   - Always open to interesting collaborations or open-source contributions.
 
 - 📫 **Contact**: 
