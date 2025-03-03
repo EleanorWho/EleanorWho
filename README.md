@@ -7,7 +7,7 @@ I’m Jingchang (you can also call me Eleanor).
   - Interested in **Machine Learning** and **Computer Vision** for AI-driven solutions
 
 - 🐱 **Cat!**: 
-  - I’m a cat person! Currently planning to start a cat diary blog (stay tuned for the link).
+  - I’m a cat person! Currently planning to start a cat diary blog [TuTu With Me](https://tutuwith.me/).
 
 - 🚀 **Projects**: 
   - My friend and I are working on a web-based productivity tool called [DeepWork](https://github.com/DeepWork2025).
