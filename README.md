@@ -12,6 +12,8 @@ I’m Jingchang (you can also call me Eleanor).
 - 🚀 **Projects**: 
   - My friend and I are working on a web-based productivity tool called [DeepWork](https://github.com/DeepWork2025).
     - Welcome to visit (or invest) ;-)
+  - My friend and I are also working for a hackathon [AI in Action](https://ai-in-action.devpost.com/).
+    - Here is the [repo](https://github.com/Towe-el).
 
 - 📫 **Contact**: 
   - [Email](mailto:huj1@tcd.ie) | [LinkedIn](https://www.linkedin.com/in/jingchang-hu/)
