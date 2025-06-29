@@ -12,7 +12,7 @@ I’m Jingchang (you can also call me Eleanor).
 - 🚀 **Projects**: 
   - My friend and I are working on a web-based productivity tool called [DeepWork](https://github.com/DeepWork2025).
     - Welcome to visit (or invest) ;-)
-  - My friend and I also built an amazing web application for a hackathon [AI in Action](https://ai-in-action.devpost.com/).
+  - My friend and I also built an amazing web application for a hackathon [AI in Action](https://devpost.com/software/deeeep).
     - Try it yourself at [here](https://toweel-frontend.web.app).
 
 - 📫 **Contact**: 
