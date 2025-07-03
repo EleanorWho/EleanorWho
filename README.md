@@ -2,7 +2,7 @@
 I’m Jingchang (you can also call me Eleanor).
 
 - 💻 **Tech!**: 
-  - Mainly using **C/C++** and **Python**.
+  - Mainly using **C/C++** and **Python**, learning to explore Java world right now.
   - Occasionally exploring frontend basics, but currently focused on backend and AI.
   - Interested in **Machine Learning** and **Computer Vision** for AI-driven solutions
 
